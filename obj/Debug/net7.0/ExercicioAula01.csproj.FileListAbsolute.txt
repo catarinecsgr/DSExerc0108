@@ -1,0 +1,15 @@
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.csproj.AssemblyReference.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.AssemblyInfoInputs.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.AssemblyInfo.cs
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.csproj.CoreCompileInputs.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\bin\Debug\net7.0\ExercicioAula01.exe
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\bin\Debug\net7.0\ExercicioAula01.deps.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\bin\Debug\net7.0\ExercicioAula01.runtimeconfig.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\bin\Debug\net7.0\ExercicioAula01.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\bin\Debug\net7.0\ExercicioAula01.pdb
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\refint\ExercicioAula01.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.pdb
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ExercicioAula01.genruntimeconfig.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\Exercício Aula 01\ExercicioAula01\obj\Debug\net7.0\ref\ExercicioAula01.dll
