@@ -46,26 +46,32 @@ namespace ExercicioAula01
 
             if (ValorSalario <= 1212)
             {
-                double resultado = ValorSalario - (ValorSalario * 0.075);
-            Console.WriteLine($"{resultado}");
+                double result = ValorSalario * 0.075;
+            Console.WriteLine($"O valor da contribuição de INSS é de {result}");
+            double resultado = ValorSalario - (ValorSalario * 0.075);
+            Console.WriteLine($"O salário com o desconto da contribuição de INSS é {resultado}");
             }
             else if (ValorSalario > 1212 && ValorSalario <= 2427.35)
             {
-                double resultado = ValorSalario - (ValorSalario * 0.09);
-            Console.WriteLine($"{resultado}");
+                double result = ValorSalario * 0.09;
+            Console.WriteLine($"O valor da contribuição de INSS é de {result}");
+            double resultado = ValorSalario - (ValorSalario * 0.09);
+            Console.WriteLine($"O salário com o desconto da contribuição de INSS é {resultado}");
             }
             else if (ValorSalario > 2427.35 && ValorSalario <= 3641.03)
             {
                 double result = ValorSalario * 0.12;
-                 Console.WriteLine($"{result}");
+                 Console.WriteLine($"O valor da contribuição de INSS é de {result}");
                 double resultado = ValorSalario - (ValorSalario * 0.12);
-            Console.WriteLine($"{resultado}");
+            Console.WriteLine($"O salário com o desconto da contribuição de INSS é {resultado}");
             }
 
             else
             {
-                double resultado = ValorSalario - (ValorSalario * 0.14);
-            Console.WriteLine($"{resultado}");
+                double result = ValorSalario * 0.14;
+            Console.WriteLine($"O valor da contribuição de INSS é de {result}");
+            double resultado = ValorSalario - (ValorSalario * 0.14);
+            Console.WriteLine($"O salário com o desconto da contribuição de INSS é {resultado}");
             }
         }
 
